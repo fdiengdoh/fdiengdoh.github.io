@@ -1,0 +1,78 @@
+body {
+    background: #333;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+img {
+    border-radius: 50%;
+  }
+
+.profile-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    height: auto;
+    max-width: 100px;
+  }
+
+.profile-name {
+      text-align: center;
+      padding: 30px;
+  }
+
+.links {
+      text-align: center;
+      margin-top: 20px;
+      padding: 20px;
+
+      width: 290px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 40px;
+  }
+
+a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 1s; 
+    background: #1e4c7c;
+}
+
+.bottom-text {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ccc;
+    background: #3A526B;
+}
+
+.social, .social:hover, .bottom-text a{
+  text-decoration: none;
+    color: #fff;
+    background: #333;
+}
+
+.yt:hover{
+    color: #bb0000;
+}
+
+.fb:hover{
+  color: #3b5998;
+}
+
+.ig:hover{
+  color: #517fa4;
+}
+
+.tw:hover{
+  color: #00aced;
+}
