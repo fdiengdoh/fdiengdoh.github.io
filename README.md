@@ -13,7 +13,6 @@ To add more links just change the javascript section at the end in [index.html](
   
         var links = [
 </code>
-
 Then add the following line
 
 <code>
