@@ -6,4 +6,4 @@ This is a clone of the app Linktree made with HTML and CSS. It has the following
 - Links
 - Logo 
 
-To add more links just change look for <!-- Links--> in index.html and add a new link below it.
+To add more links just change look for <!-- Links--> in [index.html](https://github.com/fdiengdoh/fdiengdoh.github.io/blob/main/index.html) and add a new link below it.
