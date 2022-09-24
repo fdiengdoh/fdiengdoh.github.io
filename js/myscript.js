@@ -11,7 +11,8 @@ var links = [
     {link: "https://www.facebook.com/fdphy", title: '<i class="fab fa-facebook"></i>/fdphy'},
     {link: "https://www.instagram.com/fdphy", title: '<i class="fab fa-instagram"></i>/fdphy'},
     {link: "https://www.twitter.com/fdphy_in", title: '<i class="fab fa-twitter"></i>/fdphy_in'},
-    {link: "https://www.fdiengdoh.com", title: "Visit My Website"}
+    {link: "https://www.fdiengdoh.com", title: "Visit My Website"},
+    {link: "https://github.com/fdiengdoh/fdiengdoh.github.io", title: "GitHub Repo"}
 ];
 var htmlLinks = "";
 links.forEach(function(value){
