@@ -21,4 +21,4 @@ Then add the following line
 
 Your new link is updated
 
-Preview here https://l.fdh.pw
+Preview here [l.fdh.pw](https://l.fdh.pw)
