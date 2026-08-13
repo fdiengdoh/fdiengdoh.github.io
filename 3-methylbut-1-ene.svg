@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="50" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" color-interpolation="auto" font-family="'Dialog'" font-size="12">
+    <g color-interpolation="linearRGB" color-rendering="optimizeQuality" font-family="'Arial'" font-size="10" image-rendering="optimizeQuality" text-rendering="geometricPrecision">
+        <path fill="none" stroke-linecap="butt" d="m21.25 3.707 14.722 8.501M35.972 12.208l14.723-8.501M50.695 3.707l14.722 8.501M50.695 7.241l13.192 7.617M35.972 12.208v17"/>
+        <path fill="none" stroke-linecap="butt" stroke-miterlimit="5" d="m51.128 3.957-.433-.25-.433.25"/>
+    </g>
+</svg>
